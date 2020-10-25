@@ -1,0 +1,9 @@
+{	
+	"icons":[
+
+	  { "name":"ioslight",	"isColored":false},
+	  {	"name":"iosdark",	"isColored":false}
+	  
+	]
+	
+}

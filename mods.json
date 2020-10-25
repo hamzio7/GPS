@@ -1,0 +1,25 @@
+{"mods":[
+
+{"mod":"dock_bg","name":"Dock Background"},
+
+{"mod":"gmail","name":"Gmail Notification Fix"},
+
+{"mod":"miuiseekbars","name":"MIUI Seek Bars"},
+
+{"mod":"volume_transparent","name":"Semi-Transparent Volume Bar"},
+
+{"mod":"volume_dark","name":"Stock Volume Panel (Dark)"},
+
+{"mod":"volume_light","name":"Stock Volume Panel (Light)"},
+
+{"mod":"div_iSpecial_cyan","name":"i-Special Cyan Dividers"},
+
+{"mod":"div_iSpecial","name":"i-Special Dividers"},
+
+{"mod":"div_iSpecial_green","name":"i-Special Green Dividers"},
+
+{"mod":"div_iSpecial_grey","name":"i-Special Grey Dividers"},
+
+{"mod":"div_iSpecial_pink","name":"i-Special Pink Dividers"}
+
+]}
